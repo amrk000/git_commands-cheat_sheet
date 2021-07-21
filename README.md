@@ -1,7 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="mZdcMLgEOK8O1SWt8vm7UI2KgP2gjVEjy2HARysTxdA" />
-</head>
-
 <div align="center">
     <h1>Git Commands (Cheat Sheet)</h1>
     <img src="https://user-images.githubusercontent.com/63168118/126414925-3feba664-3a8b-42e7-9dbb-90c25c10861d.jpg" width="100%" height="100%">
