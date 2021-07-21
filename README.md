@@ -1,5 +1,5 @@
 <head>
-   <meta name="google-site-verification" content="mZdcMLgEOK8O1SWt8vm7UI2KgP2gjVEjy2HARysTxdA" />
+  <meta name="google-site-verification" content="mZdcMLgEOK8O1SWt8vm7UI2KgP2gjVEjy2HARysTxdA" />
 </head>
 
 <div align="center">
