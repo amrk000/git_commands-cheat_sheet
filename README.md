@@ -4,7 +4,7 @@
     
   <table>
     <tr>
-      <th width="50%" text-align="center">Command</th>
+      <th width="51%" text-align="center">Command</th>
       <th>Description</th>
     </tr>
     <tr><td><h3>git init</h3></td><td><h3>initialize current project folder for version control (creates .git files)</h3></td></tr>
