@@ -43,4 +43,7 @@
   <p># comment: Project exclude paths<br>
 /folder/<br>
 file.txt</p>
+    </br>
+    ⬇ Get Git Commands (Cheat Sheet) as an image: <a href="https://user-images.githubusercontent.com/63168118/127323774-9ef4cc7a-f090-4ab1-8f50-4af17e5046d1.png">Download</a>
   </div>
+ 
