@@ -30,6 +30,7 @@
     <tr><td><h3>git merge <i>branch_name</i></h3></td><td><h3>merge a branch to current branch</h3></td></tr>
     <tr><td colspan="2" align="center"><h2>Remote commands</h2></td></tr>
     <tr><td><h3>git remote add <i>give_name</i> <i>repository_https_or_ssh</i></h3></td><td><h3>add a remote repository</h3></td></tr>
+    <tr><td><h3>git remote set-url <i>remote_name</i> <i>new_link</i></h3></td><td><h3>change remote repository link</h3></td></tr>
     <tr><td><h3>git pull</h3></td><td><h3>pull project from remote to local repository</h3></td></tr>
     <tr><td><h3>git push</h3></td><td><h3>push project from local to remote repository</h3></td></tr>
     <tr><td><h3>git pull <i>given_name</i> <i>branch_name</i></h3></td><td><h3>pull from a branch</h3></td></tr>
