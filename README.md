@@ -48,7 +48,7 @@ file.txt</p>
     <h4>https://{PROJECTNAME}:{TOKEN}@github.com/{USER_OR_ORG}/{REPOSITORYNAME}.git</h4>
     <h4>Use the link in git remote</h4>
     </br>
-    ⬇ Get Git Commands (Cheat Sheet) as an image: <a href="https://user-images.githubusercontent.com/63168118/140658206-4b22d476-fb5a-4c06-bb26-e1a33e5ca4cc.png">Download Image</a>
+    ⬇ Save Git Commands (Cheat Sheet): <a href="https://user-images.githubusercontent.com/63168118/140658206-4b22d476-fb5a-4c06-bb26-e1a33e5ca4cc.png">Download Image</a>
 
   </div>
  
