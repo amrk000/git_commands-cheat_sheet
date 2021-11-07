@@ -1,7 +1,5 @@
 <div align="center">
-    <h1>Git Commands (Cheat Sheet)</h1>
-    <img src="https://user-images.githubusercontent.com/63168118/126414925-3feba664-3a8b-42e7-9dbb-90c25c10861d.jpg" width="100%" height="100%">
-    
+    <img src="https://user-images.githubusercontent.com/63168118/140657907-e5e7c29e-36d7-4870-8e20-50e0d00d9c35.jpg" width="100%" height="100%">
   <table>
     <tr>
       <th width="51%" text-align="center">Command</th>
@@ -19,7 +17,7 @@
     <tr><td><h3>git rm <i>file.extension</i></h3></td><td><h3>remove file from stage & project repository</h3></td></tr>
     <tr><td><h3>git rm --cached <i>file.extension</i></h3></td><td><h3>remove file from stage</h3></td></tr>
     <tr><td><h3>git log</h3></td><td><h3>show history of commits including author & date</h3></td></tr>
-    <tr><td><h3>git blame <i>file.extension</i></h3></td><td><h3>show when each line was last modified in file & whod did it.</h3></td></tr>
+    <tr><td><h3>git blame <i>file.extension</i></h3></td><td><h3>show when each line was last modified in file & who did it</h3></td></tr>
     <tr><td colspan="2" align="center"><h2>Branches commands</h2></td></tr>
     <tr><td><h3>git branch</h3></td><td><h3>list all local branches</h3></td></tr>
     <tr><td><h3>git branch -a</h3></td><td><h3>show all including remote branches</h3></td></tr>
