@@ -46,6 +46,9 @@
   <p># comment: Project exclude paths<br>
 /folder/<br>
 file.txt</p>
+    <h2>updating .gitignore (untrack files)</h2>
+    <h4>add file path in .gitignore file then Open git bash and Run:</h4>
+    <b>git rm -r --cached .</b>
     <h2>Https Auth using token</h2>
   <h4>github website > Settings > Developer Settings > Generate New Token</h4>
     <h4>copy token and put in this link & replace { } with your data</h4>
