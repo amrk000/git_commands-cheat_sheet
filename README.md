@@ -10,7 +10,7 @@
     <tr><td><h3>git add .</h3></td><td><h3>add all changed files to stage</h3></td></tr>
     <tr><td><h3>git add <i>file.extension</i></h3></td><td><h3>add file to stage</h3></td></tr>
     <tr><td><h3>git commit -m <i>"message"</i></h3></td><td><h3>commit current staged changes with message</h3></td></tr>
-    <tr><td><h3>git commit -am <i>"message"</i></h3></td><td><h3>add all changed files then commit</h3></td></tr>
+    <tr><td><h3>git commit -am <i>"message"</i></h3></td><td><h3>add all changed files then commit (Doesn't add new files just the tracked files)</h3></td></tr>
     <tr><td><h3>git commit --amend</h3></td><td><h3>edit last commit</h3></td></tr>
     <tr><td><h3>git checkout master</h3></td><td><h3>move pointer to master</h3></td></tr>
     <tr><td><h3>git checkout <i>commit_id</i></h3></td><td><h3>move pointer to selected commit</h3></td></tr>
