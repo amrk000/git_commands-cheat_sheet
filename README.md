@@ -298,6 +298,6 @@
     <h4>https://{PROJECTNAME}:{TOKEN}@github.com/{USER_OR_ORG}/{REPOSITORYNAME}.git</h4>
     </br>
     ⬇ Save Git Commands (Cheat Sheet):
-    <a href="https://user-images.githubusercontent.com/63168118/160609190-028952a4-b502-41e6-a239-34f9d6037b18.png">Download
-        Image</a>
+    <a href="https://github.com/amrk000/git_commands-cheat_sheet/blob/main/Git%20Cheat%20Sheet.png">Download Image</a>
+    <a href="https://github.com/amrk000/git_commands-cheat_sheet/blob/main/Git%20Cheat%20Sheet.pdf">Download PDF</a>
 </div>
