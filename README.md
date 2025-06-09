@@ -37,6 +37,14 @@
         </tr>
         <tr>
             <td>
+                <h3>git restore .</h3>
+            </td>
+            <td>
+                <h3>remove all staged files from stage</h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <h3>git add FILE</h3>
             </td>
             <td>
@@ -183,6 +191,14 @@
             </td>
             <td>
                 <h3>create new branch</h3>
+            </td>
+        </tr>
+          <tr>
+            <td>
+                <h3>git checkout -b BRANCH_NAME REMOTE_NAME/REMOTE_BRANCH</h3>
+            </td>
+            <td>
+                <h3>create new branch from remote</h3>
             </td>
         </tr>
         <tr>
